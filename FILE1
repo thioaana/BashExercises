@@ -1,0 +1,10 @@
+total 32
+-rw-rw-rw- 1 codespace codespace  518 Jan 21 14:15 acronym.sh
+-rw-rw-rw- 1 codespace codespace  524 Jan 21 15:09 armstrong_numbers.sh
+-rw-rw-rw- 1 codespace codespace  439 Jan 21 14:01 dna_strands.sh
+-rw-rw-rw- 1 codespace codespace  618 Jan 21 11:16 drops.sh
+-rw-rw-rw- 1 codespace codespace  133 Jan 21 11:29 error_handling.sh
+-rw-rw-rw- 1 codespace codespace    0 Jan 21 19:40 FILE1
+-rwxrwxrwx 1 codespace codespace 1184 Jan 21 19:40 hello.sh
+-rw-rw-rw- 1 codespace codespace  195 Jan 21 19:23 malakia.sh
+-rw-rw-rw- 1 codespace root        15 Jan 21 07:57 README.md
