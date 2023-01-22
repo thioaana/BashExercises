@@ -1,8 +1,14 @@
-recepie1:
-		echo "From Recepie 1"
+install:
+		pip install pip --upgrade pip &&\
+		pip install -r requirements.txt
 
-recepie2:
-		echo "From Recepie 2 after 1"
+lint:
+		# echo "From Recepie 2 after 1"
 
+test:
+		# test
+
+format:
+		# format
 all:
-		recepie1 recepie2
+		install lint test format
